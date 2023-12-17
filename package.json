@@ -1,12 +1,12 @@
 {
   "name": "metriun-web",
   "version": "1.0.0",
-  "description": "",
+  "description": "Metriun plugin for website integration",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "start": "tsc -w"
   },
-  "author": "",
+  "author": "Metriun",
   "license": "ISC"
 }
